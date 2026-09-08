@@ -1,8 +1,9 @@
 <div align="center">
 
-👋 Hi, I'm Ali Masood Khan
+<h1 align="center">Hi 👋, I'm ALI MASOOD KHAN</h1>n
 
-🤖 Aspiring AI Engineer · Machine Learning · MLOps · Full-Stack Development
+
+<h3>🤖 Aspiring AI Engineer · Machine Learning · MLOps · Full-Stack Development</h3>
 
 <p>
   <a href="https://github.com/Ali-Masood-Khan-Devstack">
