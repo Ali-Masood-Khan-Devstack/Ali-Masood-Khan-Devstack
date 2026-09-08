@@ -91,8 +91,8 @@ Cloud / DevOps / Tools
 
 <div align="center">
 
-<a href="https://github.com/Ali-Masood-Khan-Devstack/ESA-website-gig-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ali-Masood-Khan-Devstack&repo=ESA-website-gig-project&theme=tokyonight&hide_border=true" alt="ESA Website Gig Project">
+<a href="https://github.com/Ali-Masood-Khan-Devstack/10P_AQI_Predictor">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ali-Masood-Khan-Devstack&repo=ESA-website-gig-project&theme=tokyonight&hide_border=true" alt="Multicity AQI Predictor">
 </a>
 
 <a href="https://github.com/Ali-Masood-Khan-Devstack/Python_AI-Virtual-Drawing-Board-Non-Gpt-">
