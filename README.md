@@ -1,18 +1,12 @@
 <div align="center">
 
-<h1 align="center">Hi 👋, I'm ALI MASOOD KHAN</h1>n
+<h1 align="center">Hi 👋, I'm ALI MASOOD KHAN</h1>
 
 
 <h3>🤖 Aspiring AI Engineer · Machine Learning · MLOps · Full-Stack Development</h3>
 
-<p>
-  <a href="https://github.com/Ali-Masood-Khan-Devstack">
-    <img src="https://img.shields.io/github/followers/Ali-Masood-Khan-Devstack?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers">
-  </a>
-  <a href="https://github.com/Ali-Masood-Khan-Devstack">
-    <img src="https://img.shields.io/github/stars/Ali-Masood-Khan-Devstack?label=Stars&style=for-the-badge&logo=github" alt="GitHub stars">
-  </a>
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20MLOps-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="AI and MLOps">
+<p> 
+  < img src="https://img.shields.io/badge/Focus-AI%20%26%20MLOps-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="AI and MLOps">
 </p>
 
 <p>
