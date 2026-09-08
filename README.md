@@ -5,9 +5,7 @@
 
 <h3>🤖 Aspiring AI Engineer · Machine Learning · MLOps · Full-Stack Development</h3>
 
-<p> 
-  < img src="https://img.shields.io/badge/Focus-AI%20%26%20MLOps-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="AI and MLOps">
-</p>
+
 
 <p>
   <a href="https://linkedin.com/in/ali-masood-khan-8512a6404">LinkedIn</a>
